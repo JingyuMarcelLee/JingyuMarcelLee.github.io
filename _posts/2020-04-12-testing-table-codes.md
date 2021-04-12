@@ -29,13 +29,18 @@ public class practice{
 ```
 
 ### math
-$$ 
-f(x) = \int_{-\infty}^{\infty}x^2dx
-$$
+$ f(x) = \int_{-\infty}^{\infty}x^2dx $
 ### table
-| name   | date     | time |
-| ------ | -------- | ---- |
-| Marcel | 20200412 | 2246 |
+<div class="datatable-begin"></div>
+
+Food    | Description                           | Category | Sample type
+------- | ------------------------------------- | -------- | -----------
+Apples  | A small, somewhat round ...           | Fruit    | Fuji
+Bananas | A long and curved, often-yellow ...   | Fruit    | Snow
+Kiwis   | A small, hairy-skinned sweet ...      | Fruit    | Golden
+Oranges | A spherical, orange-colored sweet ... | Fruit    | Navel
+
+<div class="datatable-end"></div>|
 
 ### emoji
 :question: :heart: :imp: :see_no_evil:
