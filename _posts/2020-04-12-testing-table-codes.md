@@ -1,6 +1,7 @@
 ---
 layout: post
 title: testing table/code on markdown
+mathjax: true
 ---
 
 # testing table/code on markdown
