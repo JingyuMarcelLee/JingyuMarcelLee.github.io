@@ -2,9 +2,8 @@
 layout: page
 title: About
 ---
-
-<p class="message">
 ### Biography
+<p class="message">
 
 Jingyu (Marcel) Lee is a undergraduate student at Dickinson College. He is pursuing a double major in Computer Science and Quantitative Economics.  
 </p>
