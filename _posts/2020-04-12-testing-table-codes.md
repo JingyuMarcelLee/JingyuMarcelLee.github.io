@@ -29,7 +29,7 @@ public class practice{
 ```
 
 ### math
-$ f(x) = \int_{-\infty}^{\infty}x^2dx $
+$  \int\_a^b f(x)\,dx. $
 ### table
 <div class="datatable-begin"></div>
 
