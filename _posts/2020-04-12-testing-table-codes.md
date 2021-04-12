@@ -30,7 +30,7 @@ public class practice{
 ```
 
 ### math
-$  a^2+b^2=c^2 $
+$$  a^2+b^2=c^2 $$
 ### table
 <div class="datatable-begin"></div>
 
