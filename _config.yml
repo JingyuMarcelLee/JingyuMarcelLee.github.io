@@ -29,5 +29,4 @@ disqus:
   shortname: https-jingyumarcellee-github-io-1
 
 #Kramdown
-kramdown:
-  html_to_native: true
+markdown: Kramdown
