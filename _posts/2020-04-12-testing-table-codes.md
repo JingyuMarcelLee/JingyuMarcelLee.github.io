@@ -29,7 +29,7 @@ public class practice{
 ```
 
 ### math
-$  \int\_a^b f(x)\,dx. $
+$  a^2+b^2=c^2 $
 ### table
 <div class="datatable-begin"></div>
 
