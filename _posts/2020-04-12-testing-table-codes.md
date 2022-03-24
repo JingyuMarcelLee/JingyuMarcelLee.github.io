@@ -7,7 +7,7 @@ mathjax: true
 # testing table/code on markdown
 
 This post is a test for me to see how codes and tables work on markdown environment.
-the all-in-one extension for vscode is used for the ease of editing. markdown preview extension is used as well. kudos to the genius developers who made not-so-genius noob's (my) life easier. 
+the all-in-one extension for vscode is used for the ease of editing. m
 
 *let's get started!*
 
